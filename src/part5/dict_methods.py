@@ -1,0 +1,10 @@
+dict_1 = dict(id=100500, title='some title')
+# print(dict_1.pop('id'))
+print(dict_1)
+print(dict_1['id'])
+print(dict_1.get('id'))
+print(dict_1.keys())
+print(dict_1.values())
+print(dict_1.clear())
+print(dict_1)
+
