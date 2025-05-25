@@ -2,7 +2,6 @@
 # Умова:
 # Створи функцію rectangle_area(width, height), яка обчислює площу прямокутника за формулою:
 # S = ширина × висота
-from domain.part4.loops_task import total
 
 
 def rect_area(width, height):
